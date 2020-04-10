@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Section Slides | Academic</title>
+    <title>Section Slides | </title>
     <link>https://MatthewRFitzgerald.github.io/teaching/econ-204b/</link>
       <atom:link href="https://MatthewRFitzgerald.github.io/teaching/econ-204b/index.xml" rel="self" type="application/rss+xml" />
     <description>Section Slides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Section Slides</title>
       <link>https://MatthewRFitzgerald.github.io/teaching/econ-204b/</link>
     </image>
+    
+    <item>
+      <title>Exams</title>
+      <link>https://MatthewRFitzgerald.github.io/teaching/econ-204b/exams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MatthewRFitzgerald.github.io/teaching/econ-204b/exams/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/204B%20Winter%202020%20Midterm.pdf&#34;&gt;Midterm&lt;/a&gt;   &lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/204B%20Winter%202020%20Midterm%20with%20Solutions.pdf&#34;&gt;(Solutions)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20Winter%202020%20Final%20Exam.pdf&#34;&gt;Final&lt;/a&gt;   &lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20Winter%202020%20Final%20Exam%20with%20Solutions.pdf&#34;&gt;(Solutions)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Problem Sets</title>
+      <link>https://MatthewRFitzgerald.github.io/teaching/econ-204b/problem-sets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MatthewRFitzgerald.github.io/teaching/econ-204b/problem-sets/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS1.pdf&#34;&gt;Problem Set 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS2.pdf&#34;&gt;Problem Set 2&lt;/a&gt;   &lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS2%20Solutions.pdf&#34;&gt;(Solutions)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS3.pdf&#34;&gt;Problem Set 3&lt;/a&gt;   &lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS3%20Solutions.pdf&#34;&gt;(Solutions)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS4.pdf&#34;&gt;Problem Set 4&lt;/a&gt;   &lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS4%20Solutions.pdf&#34;&gt;(Solutions)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/Econ%20204B%20PS5.pdf&#34;&gt;Problem Set 5&lt;/a&gt;   &lt;a href=&#34;https://MatthewRFitzgerald.github.io/files/204B%20PS5%20Solutions.pdf&#34;&gt;(Solutions)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
